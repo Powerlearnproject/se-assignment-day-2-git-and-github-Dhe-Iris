@@ -6,7 +6,6 @@ Version Control: A system that tracks changes to files over time, allowing multi
 GitHub's Popularity: GitHub is popular because it hosts Git repositories online, providing tools for collaboration, code review, and project management.
 Maintaining Project Integrity: Version control helps maintain project integrity by tracking changes, allowing rollbacks, and managing collaboration without overwriting others' work.
 
-
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Key Steps:
 Sign in to GitHub.
